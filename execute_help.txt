@@ -1,8 +1,61 @@
 first.sh
 
-./first.sh
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./first.sh 
+Hello World
 ========================
 second.sh
 
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./second.sh 
+Hello World
+/bin/bash
+/home/intel
+The name is Neeraj
+The value is 10
+========================
+third1.sh
 
-./second.sh
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./third1.sh 
+Enter name
+neeraj
+Entered name is neeraj
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./third1.sh 
+Enter name
+neeraj varshney
+Entered name is neeraj varshney
+=======================
+third2.sh
+
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./third2.sh 
+Enter names separated by space
+jon sam tom
+Names are name1 = jon name2 = sam name3 = tom
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./third2.sh 
+Enter names separated by space
+jon sam tom harry
+Names are name1 = jon name2 = sam name3 = tom harry
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./third2.sh 
+Enter names separated by space
+jon
+Names are name1 = jon name2 = name3 =
+==========================
+third3.sh
+
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./third3.sh 
+Username : nrj
+Username entered is nrj
+Password: 
+Password is 123456
+============================
+third4.sh
+
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./third4.sh 
+Enter names
+no jo si io
+First 2 Names are no, jo
+============================
+third5.sh
+
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./third5.sh 
+Enter name
+max
+Entered name  max
