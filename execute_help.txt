@@ -90,3 +90,12 @@ intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./fourth3.sh
 0
 intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./fourth3.sh  ab cd2
 2
+==========================
+fifth1.sh
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./fifth1.sh 
+eq not true with 0
+eq true with 10
+== comparison is true
+lt comparison is true
+
+===========================
