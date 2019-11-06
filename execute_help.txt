@@ -59,3 +59,34 @@ intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./third5.sh
 Enter name
 max
 Entered name  max
+========================
+fourth1.sh
+
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./fourth1.sh 
+0 = ./fourth1.sh, 1 = , 2 = , 3 =
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./fourth1.sh abc
+0 = ./fourth1.sh, 1 = abc, 2 = , 3 =
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./fourth1.sh abc def
+0 = ./fourth1.sh, 1 = abc, 2 = def, 3 =
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./fourth1.sh abc def ghi
+0 = ./fourth1.sh, 1 = abc, 2 = def, 3 = ghi
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./fourth1.sh abc def ghi extra
+0 = ./fourth1.sh, 1 = abc, 2 = def, 3 = ghi
+
+=========================
+fourth2.sh
+
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./fourth2.sh ab cd ef dg gds
+Using variables
+0 = ./fourth2.sh, 1 = ab, 2 = cd, 3 = ef
+Using args array
+args[0] = ab, args[1] = cd args[2] = ef
+Printing whole array
+ab cd ef dg gds
+=========================
+fourth3.sh
+
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./fourth3.sh 
+0
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./fourth3.sh  ab cd2
+2
