@@ -99,3 +99,12 @@ eq true with 10
 lt comparison is true
 
 ===========================
+sixth1.sh
+
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./sixth1.sh 
+Enter fine name here : execute_input.txt
+file execute_input.txt not found
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./sixth1.sh 
+Enter fine name here : execute_help.txt
+file execute_help.txt found
+============================
