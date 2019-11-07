@@ -129,3 +129,37 @@ eight.sh
 5.38516480713450403125
 81
 =============================
+ninth.sh
+
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ LANG=c
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./ninth.sh 
+Enter vehicle from car or van
+car
+Rent of car is 100
+Enter some character : c
+c matches [a-z]
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./ninth.sh 
+Enter vehicle from car or van
+van
+Rent of van is 80
+Enter some character : C
+C matches [A-Z]
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./ninth.sh 
+Enter vehicle from car or van
+car
+Rent of car is 100
+Enter some character : 9
+9 matches [0-9]
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./ninth.sh 
+Enter vehicle from car or van
+car
+Rent of car is 100
+Enter some character : #
+# matches ?
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./ninth.sh 
+Enter vehicle from car or van
+daf
+Rent of daf is unknown
+Enter some character : eca
+eca matches *
+=====================================
