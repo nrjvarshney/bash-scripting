@@ -108,3 +108,10 @@ intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./sixth1.sh
 Enter fine name here : execute_help.txt
 file execute_help.txt found
 ============================
+seventh.sh
+
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./seventh1.sh 
+age is greater than 15 and less than 20
+age is greater than 15 and less than 20
+age is greater than 15 and less than 20
+==============================
