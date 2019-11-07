@@ -115,3 +115,17 @@ age is greater than 15 and less than 20
 age is greater than 15 and less than 20
 age is greater than 15 and less than 20
 ==============================
+eight.sh
+
+20 + 5
+1 + 1
+1+1
+25
+25
+25
+100
+25.5
+25.5
+5.38516480713450403125
+81
+=============================
