@@ -163,3 +163,21 @@ Rent of daf is unknown
 Enter some character : eca
 eca matches *
 =====================================
+tenth.sh
+
+intel@intel-Inspiron-5547:~/Desktop/Learning/Bash scripting$ ./tenth.sh 
+printing ubuntu
+printing everything ubuntu windows mac
+printing indices of the array 0 1 2
+printing length of arrray 3
+printing everything after adding ubuntu windows mac linux
+printing everything after removing mac ubuntu windows linux
+printing indices of the array after deleting 0 1 3
+printing everything after adding kali at index 6 :ubuntu windows linux kali
+printing indices of the array after adding kali at index 6 : 0 1 3 6
+printing element at index 0 : dagadsfsdfsd
+printing element at index 1 : 
+printing length of string:  1
+=====================================
+eleventh.sh
+
